@@ -1,10 +1,10 @@
 # [EPOCH 1.0.6+] SimpleDeployBike
-A simple script that lets you deploy a bike out of your toolbox, you can also pack it up and get your toolbox back.
+A simple script that lets you deploy a bike out of your toolbox. You can also pack it up and get your toolbox back.
 
-* Tested as working on a blank Epoch 1.0.6+ and OverWatch 0.25 server
+* Tested to work on a blank Epoch 1.0.6+ and OverWatch 0.25 server
 * Supports any map
-* You can build up the bike by right clicking your toolbox (the toolbox will be used for it)
-* If you don't need the bike anymore you can scroll on it and hit "Pack bike", you will also get your toolbox back
+* You can build the bike by right clicking your toolbox (the toolbox will be used)
+* If you don't need the bike anymore you can scroll on it and hit "Pack bike" and you will get your toolbox back
 
 
 **[>> Download <<] (https://github.com/DAmNRelentless/SimpleDeployBike/archive/master.zip)**
@@ -16,9 +16,9 @@ A simple script that lets you deploy a bike out of your toolbox, you can also pa
 
 1. Drop the folder "dayz_code" into your mission.
 
-2. If you didn't edit the init.sqf and the descripton.ext yet, just replace your ones with the provided ones.
+2. If you have not edited the init.sqf and the descripton.ext yet, just replace your ones with the provided ones.
 
-3. In case you already made some changes to them, follow the next instructions. If you replaced them, you are done.
+3. If you have changed the, follow the changes below. Otherwise, you are done.
 
 4. In your mission\init.sqf find this line:
 
@@ -50,7 +50,7 @@ A simple script that lets you deploy a bike out of your toolbox, you can also pa
  	 #include "dayz_code\scripts\extra_rc.hpp"
 	```
 
-6. This should be all, you are done!
+6. This should be all. You are done!
 
 
 # Mission folder install (when you already have modified files):
@@ -146,4 +146,4 @@ A simple script that lets you deploy a bike out of your toolbox, you can also pa
 	```
   
   
-# You are done now! Make sure to leave feedback and if you found any bug make sure to report it. Thank you!
+# You are done now! Make sure to leave feedback and if you find any bugs, please make sure to report it. Thank you!
