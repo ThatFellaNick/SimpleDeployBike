@@ -33,4 +33,4 @@ diagHit = 1;
 #include "\z\addons\dayz_code\gui\description.hpp"
 #include "\z\addons\dayz_code\Configs\CfgLoot\CfgLoot.hpp"
 #include "\z\addons\dayz_code\Configs\CfgServerTrader\CfgServerTrader.hpp"
-#include "dayz_code\scripts\rightclickactions\extra_rc.hpp"
+#include "dayz_code\scripts\extra_rc.hpp"
