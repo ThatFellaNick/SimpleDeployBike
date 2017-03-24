@@ -17,7 +17,7 @@ if (false) then {
   
   sleep 6;
   
-  _object = "Old_bike_TK_INS_EP1" create Vehicle (position player);
+  _object = "Old_bike_TK_INS_EP1" createVehicle (position player);
   _object setVariable ["ObjectID", "1", true];
   _object setVariable ["ObjectUID", "1", true];
   
